@@ -11,6 +11,6 @@ REVOLUTIONUC TEAMMATES
 
 
 
-Credits:
+# Credits:
 GestureToText for finger position placements
 sample-leapmotion-bluemix for connecting leap motion to BlueMix
