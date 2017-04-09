@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: AirGestt
+  host: AirGestt
+  disk_quota: 1024M
+  services:
+  - AirGestt-cloudantNoSQLDB
+  - Text to Speech-n9
+  - Gesture2Text-iotf-service
